@@ -49,4 +49,4 @@
 14. Процеси розробки ПЗ
      * waterfall, agile, scrum, kanban, багтрекер, jira
 15. Часто вживані формати представлення даних.
-    * JSON, XML, markdown
+    * JSON, YAML, XML, markdown
